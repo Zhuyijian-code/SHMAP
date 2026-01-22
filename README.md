@@ -64,7 +64,7 @@ python main.py --gpu {gpu_id} --action {action_type}
 
 ## Note
 
-This repository serves as a demonstration for SHMAP. By debugging, you can quickly grasp SHMAP's configuration and build methods. Once the journal accepts the article, we will make all the code publicly available.For further inquiries, please email Professor Zhang ([yxzhang@fjnu.edu.cn](mailto:yxzhang@fjnu.edu.cn)).
+This repository serves as a demonstration for SHMAP. By debugging, you can quickly grasp SHMAP's configuration and build methods. Once the journal accepts the article, we will make all the code publicly available. For further inquiries, please email Professor Zhang ([yxzhang@fjnu.edu.cn](mailto:yxzhang@fjnu.edu.cn)).
 
 
 ## Remind
