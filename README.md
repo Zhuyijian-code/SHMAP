@@ -69,5 +69,5 @@ This repository serves as a demonstration for SHMAP. By debugging, you can quick
 
 ## Remind
 
-This code is directly related to our manuscript currently submitted to The Visual Computer. We encourage readers to cite this relevant manuscript.
+This code is directly related to our manuscript currently submitted to The Visual Computer. We encourage readers to cite this relevant manuscript. For further inquiries, please email Professor Zhang ([yxzhang@fjnu.edu.cn](mailto:yxzhang@fjnu.edu.cn)).
 
